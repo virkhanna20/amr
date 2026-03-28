@@ -1,0 +1,1 @@
+/home/parth/amr_ws/src/amr/build/amr/ament_cmake_environment_hooks/local_setup.sh

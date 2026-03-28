@@ -1,0 +1,8 @@
+source;share/amr/hook/cmake_prefix_path.ps1
+source;share/amr/hook/cmake_prefix_path.dsv
+source;share/amr/hook/cmake_prefix_path.sh
+source;share/amr/local_setup.bash
+source;share/amr/local_setup.dsv
+source;share/amr/local_setup.ps1
+source;share/amr/local_setup.sh
+source;share/amr/local_setup.zsh

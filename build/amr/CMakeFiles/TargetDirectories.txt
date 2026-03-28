@@ -1,0 +1,9 @@
+/home/parth/amr_ws/src/amr/build/amr/CMakeFiles/uninstall.dir
+/home/parth/amr_ws/src/amr/build/amr/CMakeFiles/amr_uninstall.dir
+/home/parth/amr_ws/src/amr/build/amr/CMakeFiles/test.dir
+/home/parth/amr_ws/src/amr/build/amr/CMakeFiles/edit_cache.dir
+/home/parth/amr_ws/src/amr/build/amr/CMakeFiles/rebuild_cache.dir
+/home/parth/amr_ws/src/amr/build/amr/CMakeFiles/list_install_components.dir
+/home/parth/amr_ws/src/amr/build/amr/CMakeFiles/install.dir
+/home/parth/amr_ws/src/amr/build/amr/CMakeFiles/install/local.dir
+/home/parth/amr_ws/src/amr/build/amr/CMakeFiles/install/strip.dir
