@@ -1,0 +1,9 @@
+motor_control_node:
+  ros__parameters:
+    wheel_separation: 0.35
+    wheel_radius: 0.05
+    encoder_ticks_per_rev: 330    # MEASURE THIS: rotate wheel 1 full turn, count ticks
+    serial_port: "/dev/ttyACM0"
+    baud_rate: 115200
+    cmd_vel_timeout: 0.5
+    publish_rate: 50.0
