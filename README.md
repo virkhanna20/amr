@@ -214,7 +214,7 @@ ros2 launch amr robot_bringup.launch.py
 
 - **Parth Khanna** — [Parthkhannawork@gmail.com](mailto:Parthkhannawork@gmail.com)
 - **Neev** — [neev1488@gmail.com](mailto:neev1488@gmail.com)
-- **Harshit Chhapaliya** — [harshitchhapliyal04@gmail.com](mailto:harshitchhapliyal04@gmail.com)
+- **Harshit Chhapaliyal** — [harshitchhapliyal04@gmail.com](mailto:harshitchhapliyal04@gmail.com)
 
 ## License
 
